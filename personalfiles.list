@@ -1,0 +1,20 @@
+# NAME: Personallist
+# AUTHOR: Li Jian
+# REPO: https://github.com/Jian970224/privatefiles
+# UPDATED: 2024-07-23
+# DOMAIN: 2
+# DOMAIN-KEYWORD: 0
+# DOMAIN-SUFFIX: 2
+# IP-CIDR: 0
+# IP-CIDR6: 0
+# PROCESS-NAME: 0
+# USER-AGENT: 0
+# TOTAL: 0
+
+## useful APPs
+DOMAIN,www.producthunt.com
+
+## AI tools
+DOMAIN,www.perplexity.ai
+DOMAIN-SUFFIX,character.ai
+DOMAIN-SUFFIX,poe.com
